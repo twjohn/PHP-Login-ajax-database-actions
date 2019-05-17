@@ -1,0 +1,5 @@
+hello, this is form a text file load via ajax
+
+this will be load from a file on the server rather than being sent to a new page to display wanted information 
+
+ajax is useful for making webpages where you don't want to constantly refresh and such.
