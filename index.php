@@ -20,10 +20,6 @@
         </form>
 
         <?php $auth->login();?>
-        <p>
-            
-        </p>
-        <button>click to load</button>
         <h1>New User</h1>
         <form method="post" action = "<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>">
             <input type="text" name="newUsername" placeholder="username"/>
